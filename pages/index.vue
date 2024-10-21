@@ -9,7 +9,7 @@ definePageMeta({
   <Container margin="t-5">
     <HeroHeadingsDescription />
   </Container>
-  aaa
+  あああ
   <HeroLandingVb />
   <Container margin="y-5">
     <ColumnsOurService />
